@@ -1,2 +1,2 @@
 # game
-an opensource strategy game
+an unamed opensource strategy game
